@@ -1,1 +1,7 @@
-# starlove
+# 별빛마을 러브스토리
+
+귀여운 2D 연애·결혼 시뮬레이션 게임 (모바일 우선, PC 지원)
+
+플레이: https://lovelypineapple87.github.io/starlove/
+
+안드로이드 크롬에서 열고 메뉴 → "홈 화면에 추가"를 누르면 앱처럼 설치돼요.
